@@ -3,7 +3,7 @@ language: java
 deploy:
   provider: heroku
   api_key: a2831eb7-0055-4ef7-9a4d-6e4274b5a842
-  app: rsoi-iu7-hello-world-deploy
+  app: simplespring
 
 notifications:
   email: false
